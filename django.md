@@ -1,6 +1,6 @@
 ---
 title: Django
-layout: landing
+layout: page
 description: DJango Projects 
 image: assets/images/pic08.jpg
 nav-menu: true
