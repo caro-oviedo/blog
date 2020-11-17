@@ -5,7 +5,7 @@ email: youremailaddress@gmail.com
 description: Translator - Proofreader & Editor 
 baseurl: "/blog/" # the subpath of your site, e.g. /blog
 url: https://caro-oviedo.github.io # the base hostname & protocol for your site
-author:
+author: Caro Oviedo 
 street_address:
 city: 
 state: 
