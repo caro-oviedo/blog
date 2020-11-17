@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Django Projects</h2>
 		</header>
-		<p> Django Projects</p>
+		<p> Django Projects Explained </p>
 	</div>
 </section>
 
