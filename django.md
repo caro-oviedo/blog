@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Landing
 title: Django 
 description: Django Projects 
 image: assets/images/pic09.jpg
