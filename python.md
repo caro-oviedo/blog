@@ -1,7 +1,7 @@
 ---
 title: Python
-layout: page
-description: 
+layout: landing
+description: 'Python practice.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
