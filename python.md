@@ -22,9 +22,6 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://github.com/caro-oviedo/Python-Code-Newbie/blob/master/password_detection_explained.md" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
