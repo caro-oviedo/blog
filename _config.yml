@@ -1,7 +1,7 @@
 # site settings
-title: Caro Oviedo 
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+title: Caro Oviedo
+subtitle: 
+email: carolina.u.oviedo@gmail.com
 description: Translator - Proofreader & Copy Editor 
 baseurl: "/blog/" # the subpath of your site, e.g. /blog
 url: https://caro-oviedo.github.io # the base hostname & protocol for your site
@@ -9,7 +9,7 @@ author: Caro Oviedo
 street_address:
 city: 
 state: 
-zip_code: 55555
+zip_code: 
 country: 
 phone: 
 
