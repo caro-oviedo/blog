@@ -46,7 +46,7 @@ nav-menu: true
 		</header>
 		<p> </p>
 		<ul class="actions">
-			<li><a href="https://caro-oviedo.github.io/blog/" class="button next"> Home </a></li>
+			<li><a href="index.md" class="button next"> Home </a></li>
 		</ul>
 	</div>
 </section>
