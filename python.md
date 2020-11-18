@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Python 3x (RegEx)</h2>
+			<h2>Python 3x </h2>
 		</header>
 		<p> Excercises explained </p>
 	</div>
