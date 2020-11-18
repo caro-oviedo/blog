@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Python 3x </h2>
 		</header>
-		<p> Excercises explained </p>
+		<p> Exercises explained </p>
 	</div>
 </section>
 
