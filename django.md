@@ -20,9 +20,6 @@ nav-menu: true
 </section>
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://github.com/caro-oviedo/Django-TODO-App-CockroachDB-Hacktoberfest-Challenge" class="image">
-			<img src="{% link assets/images/pic03.jpg %}" alt="" data-position="center center" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
