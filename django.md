@@ -28,7 +28,7 @@ nav-menu: true
 				<h4> How to build a Django Todo App </h4>
 				<p> The Challenge: Build a To-Do app using CockroachDB and a language/ORM of your choice! </p>
 				<ul class="actions">
-					<li><a href="_posts/2020-11-18-test.md" class="button"> Read in Github</a></li>
+					<li><a href="2020-11-18-test.md" class="button"> Read in Github</a></li>
 				</ul>
 			</div>
 		</div>
