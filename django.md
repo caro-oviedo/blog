@@ -28,8 +28,8 @@ nav-menu: true
 				<header class="major">
 					<h3> Hacktoberfest 2020 Challenge [To-do App] </h3>
 				</header>
-				<h2> How to build a Django Todo App </h2>
-				<p> Build a To-Do app using CockroachDB and a language/ORM of your choice! </p>
+				<h1> How to build a Django Todo App </h1>
+				<p> The Challenge: Build a To-Do app using CockroachDB and a language/ORM of your choice! </p>
 				<ul class="actions">
 					<li><a href="https://github.com/caro-oviedo/Django-TODO-App-CockroachDB-Hacktoberfest-Challenge" class="button"> Read in Github</a></li>
 				</ul>
