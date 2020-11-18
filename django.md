@@ -40,7 +40,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2></h2>
+			<h2> </h2>
 		</header>
 		<p></p>
 		<ul class="actions">
