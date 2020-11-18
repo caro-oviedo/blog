@@ -1,4 +1,3 @@
-
 ---
 title: Django
 layout: landing
