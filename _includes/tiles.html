@@ -1,4 +1,4 @@
-{% if 'pages' == site.tiles-source %}
+{% if 'page' == site.tiles-source %}
     {% assign tiles = site.html_pages | where_exp: "item", "item.show_tile != false" %}
 {% endif %}
 <section id="one" class="tiles">
