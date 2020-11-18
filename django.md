@@ -26,9 +26,10 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3> Strong Password Detection</h3>
+					<h3> Hacktoberfest 2020 Challenge [To-do App] </h3>
 				</header>
-				<p> The problem: Write a function —using regular expressions— that checks whether a password is strong or not.</p>
+				<h2> How to build a Django Todo App </h2>
+				<p> Build a To-Do app using CockroachDB and a language/ORM of your choice! </p>
 				<ul class="actions">
 					<li><a href="https://github.com/caro-oviedo/Django-TODO-App-CockroachDB-Hacktoberfest-Challenge" class="button"> Read in Github</a></li>
 				</ul>
